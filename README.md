@@ -1,6 +1,6 @@
 # Mall Customers Clustering Project
 
-This project is my practice of marketing segmentation skilss
+This project is my practice of marketing segmentation skills
 
 ## Datasest
 
