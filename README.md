@@ -15,3 +15,7 @@ I used some clustering algorithms, ex: K-means, Hierarchical clustering, Mean sh
 ## Resources
 
 I also attached the resource links in the file. Those links helpt me a lot for preparing my project. 
+
+## Future Steps
+
+I will write other files as notes for the details of the algorithms I've used in the project
